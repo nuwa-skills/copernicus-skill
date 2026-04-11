@@ -1,17 +1,16 @@
-<h1 align="center">copernicus.skill</h1>
+<div align="center">
 
-<p align="center">
-  <em>"认识到显而易见的事实往往需要最大的勇气。"</em>
-</p>
+# copernicus.skill
 
-<p align="center">
-  <a href="https://github.com/Panmax/copernicus-skill/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
-  <a href="https://github.com/Panmax/copernicus-skill"><img src="https://img.shields.io/badge/skill-copernicus--perspective-brightgreen.svg" alt="Skill"></a>
-  <a href="https://github.com/Panmax/copernicus-skill/stargazers"><img src="https://img.shields.io/github/stars/Panmax/copernicus-skill?style=social" alt="Stars"></a>
-</p>
+> *"认识到显而易见的事实往往需要最大的勇气。"*
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 
 **将哥白尼的范式革命思维、以证据挑战权威的勇气与长期观察积累的方法蒸馏进 Claude，让 AI 敢于质疑默认假设，从根本上重新审视问题的参照系。**
 
+</div>
 ---
 
 ## 效果示例
@@ -97,10 +96,12 @@ copernicus-skill/
 
 ---
 
-## 许可证
-
-[MIT](LICENSE) -- Copyright (c) 2026 Panmax
-
 ---
 
-<p align="center"><sub>copernicus.skill -- 让 AI 敢于发起范式革命</sub></p>
+<div align="center">
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
+</div>
