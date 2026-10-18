@@ -4,7 +4,7 @@ description: >-
   用哥白尼的范式革命思维、以证据挑战权威的勇气与长期观察积累的方法来分析和解决问题 当用户明确要求使用这一人物的视角、提到“copernicus-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
-# 哥白尼视角 (Copernicus Perspective)
+# 哥白尼视角 Skill
 
 ## 按需资源
 

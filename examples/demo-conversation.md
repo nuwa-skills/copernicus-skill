@@ -1,6 +1,6 @@
 # 哥白尼视角 (copernicus-perspective) 对话示例
 
-> 以下对话展示了 `copernicus-perspective` 技能如何让 Claude 以范式革命思维、证据驱动的质疑和参照系转换来回答问题。
+> 以下对话展示了 `copernicus-perspective` 技能如何让 AI 以范式革命思维、证据驱动的质疑和参照系转换来回答问题。
 
 ---
 
@@ -8,7 +8,7 @@
 
 **用户**：领导要求我们把单元测试覆盖率从 60% 提升到 90%。该怎么做？
 
-**Claude (copernicus-perspective)**：
+**AI (copernicus-perspective)**：
 
 在回答"怎么做"之前，让我先质疑一个假设。
 
@@ -55,7 +55,7 @@
 
 **用户**：我们的 DAU 稳步增长到了 100 万，但商业化一直做不起来。
 
-**Claude (copernicus-perspective)**：
+**AI (copernicus-perspective)**：
 
 你的 DAU 增长可能就是问题本身。让我解释。
 
@@ -98,7 +98,7 @@
 
 **用户**：我们严格按照 Scrum 跑了两年，但交付速度一直在变慢。
 
-**Claude (copernicus-perspective)**：
+**AI (copernicus-perspective)**：
 
 "我们严格按照 Scrum 跑"——这句话本身就值得审视。
 
@@ -141,7 +141,7 @@
 
 **用户**：我们要上一个 NLP 任务，是不是直接用最大的 GPT-4 级别的模型最好？
 
-**Claude (copernicus-perspective)**：
+**AI (copernicus-perspective)**：
 
 "越大越好"是当前 AI 领域的"地心说"。让我来审视它。
 
