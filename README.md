@@ -5,10 +5,10 @@
 > *"认识到显而易见的事实往往需要最大的勇气。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 
-**将哥白尼的范式革命思维、以证据挑战权威的勇气与长期观察积累的方法蒸馏进 Claude，让 AI 敢于质疑默认假设，从根本上重新审视问题的参照系。**
+**将哥白尼的范式革命思维、以证据挑战权威的勇气与长期观察积累的方法蒸馏进你的 AI 助手，让 AI 敢于质疑默认假设，从根本上重新审视问题的参照系。**
 
 </div>
 ---
@@ -77,7 +77,7 @@ npx skills add nuwa-skills/copernicus-skill
 
 ```
 copernicus-skill/
-├── SKILL.md                        # Skill 定义文件（Claude 读取）
+├── SKILL.md                        # Skill 定义文件（客户端读取）
 ├── README.md                       # 项目说明
 ├── LICENSE                         # MIT 许可证
 ├── examples/
